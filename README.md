@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 <h1 align="center">Hi 👋, I'm Pasindu Piyumal</h1>
 <h3 align="center">I’m a curious learner passionate about statistics, programming, and uncovering insights from data.</h3>
 
