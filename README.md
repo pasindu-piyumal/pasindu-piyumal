@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python, Data Analysis, Machine Learning and Web development and database integration**
 
-- 📫 How to reach me <a href="https://linkedin.com/in/pasindu piyumal" target="blank"></a>
+- 📫 How to reach me <a href="https://linkedin.com/in/pasindu piyumal" target="blank">LinkedIn</a>
 
 - ⚡ Fun fact **Call me as PAP**
 
