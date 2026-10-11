@@ -1,76 +1,85 @@
-<p align="right"><img src="https://komarev.com/ghpvc/?username=octocat&style=flat-square&color=blue" alt="Visitor Count" /></p>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=pasindu-piyumal&style=flat-square&color=blue" alt="Visitor Count" />
+</p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,20,30,35&height=180&section=header&text=Alex%20Morgan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Pasindu%20Piyumal%20Amarasinghe&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
 
-<h3 align="center">Full Stack Software Engineer & Open Source Enthusiast</h3>
-<p align="center">📍 San Francisco, CA &nbsp;|&nbsp; 🟢 Available for hire</p>
-
-<p align="center">
-  <a href="https://github.com/octocat" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100e.svg?style=flat&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/username" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/username" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:hello@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
+<h3 align="center">Data Science Undergraduate & AI Enthusiast 📊🤖</h3>
+<p align="center">📍 Sri Lanka 🇱🇰 &nbsp;|&nbsp; 🎓 BSc (Hons) in Data Science @ Sabaragamuwa University of Sri Lanka</p>
 
 ---
 
-### 🔭 About Me
+### 👤 About Me
 
-- 💬 Ask me about **JavaScript, TypeScript, React**
-- 🌱 I build high-performance web applications, cloud infrastructure, and modern developer tools.
-- ⚡ Fun fact: I turn coffee into production-ready code.
+- 🎓 **Current Role:** Data Science Undergraduate & AI Enthusiast 📊🤖
+- 🏫 **University:** Sabaragamuwa University of Sri Lanka
+- 🌱 **Bio:** Passionate about extracting actionable insights from data, building computer vision solutions, and developing modern web apps.
+- 💡 **Main Interests:** Data Science, Machine Learning, AI, Computer Vision, Web Development
+- 🎯 **Hobbies & Activities:** Gaming, Photography, Music, Traveling, Badminton, Football, Coffee ☕
 
-### 🚀 Current Focus & Learning
+### 🎓 Education & Key Learning Areas
 
-- 🔭 I’m currently working on: **Building distributed cloud systems and learning Rust & WebAssembly**
-- 🌱 I’m currently learning advanced system design and scalable architectures.
+**BSc (Hons) in Data Science** — *Sabaragamuwa University of Sri Lanka*
 
-### 🛠️ Tech Stack & Tools
+Relevant coursework & topics explored:
+- 🔹 Machine Learning
+- 🔹 Data Mining & Analysis
+- 🔹 Computer Vision
+- 🔹 Statistics & Probability
+- 🔹 Data Structures & Algorithms
+- 🔹 Database Management Systems
+- 🔹 Web Engineering
+- 🔹 Human-Computer Interaction (HCI)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-000?style=flat&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-000?style=flat&logo=nodejs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-000?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-000?style=flat&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-000?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-000?style=flat&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-000?style=flat&logo=graphql&logoColor=white" />
+### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-00599E?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-00599E?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-00599E?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-00599E?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-00599E?style=for-the-badge&logo=sql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-00599E?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-00599E?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 📊 GitHub Stats
+### 🛠️ Data Science, AI & Computer Vision
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=python&logoColor=cyan" />
+  <img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=python&logoColor=cyan" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-111827?style=for-the-badge&logo=python&logoColor=cyan" />
+  <img src="https://img.shields.io/badge/OpenCV-111827?style=for-the-badge&logo=python&logoColor=cyan" />
+  <img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge&logo=python&logoColor=cyan" />
+  <img src="https://img.shields.io/badge/MediaPipe-111827?style=for-the-badge&logo=python&logoColor=cyan" />
+</p>
+
+### 🌐 Web Engineering & Databases
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Django-0f172a?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-0f172a?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-0f172a?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/NodeJS-0f172a?style=for-the-badge&logo=nodejs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=octocat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pasindu-piyumal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=octocat&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=octocat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pasindu-piyumal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=octocat&theme=dracula&no-frame=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pasindu-piyumal&theme=dracula&no-frame=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
 </p>
 
-### 💻 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[DevFlow Engine](https://github.com/octocat)** | Real-time collaborative workspace for modern developers | `React` `Node.js` `WebSockets` |
-| **[CloudPulse CLI](https://github.com/octocat)** | High-performance CLI tool for cloud telemetry & logging | `Go` `Docker` `GraphQL` |
-
-### 🎵 Daily Dev Quote
-
-> *"There are two hard things in computer science: cache invalidation and naming things."* — Martin Fowler
-
 ---
-
-<p align="center">✨ *Generated with <a href="#">Interactive GitHub README Studio</a>* ✨</p>
+<p align="center">✨ *Crafted with Pasindu's GitHub README Studio* ✨</p>
